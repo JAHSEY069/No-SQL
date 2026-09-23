@@ -1,0 +1,450 @@
+[{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c230e"
+  },
+  "productId": 1,
+  "name": "Black T-Shirt",
+  "category": "T-Shirts",
+  "price": 12000,
+  "stock": 25,
+  "rating": 4.7,
+  "tags": [
+    "black",
+    "cotton"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c230f"
+  },
+  "productId": 2,
+  "name": "White T-Shirt",
+  "category": "T-Shirts",
+  "price": 9000,
+  "stock": 40,
+  "rating": 4.5,
+  "tags": [
+    "white",
+    "cotton"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c2310"
+  },
+  "productId": 3,
+  "name": "Grey T-Shirt",
+  "category": "T-Shirts",
+  "price": 11000,
+  "stock": 18,
+  "rating": 4.6,
+  "tags": [
+    "grey",
+    "cotton"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c2311"
+  },
+  "productId": 4,
+  "name": "Black Hoodie",
+  "category": "Hoodies",
+  "price": 28000,
+  "stock": 15,
+  "rating": 4.9,
+  "tags": [
+    "black",
+    "hoodie"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c2312"
+  },
+  "productId": 5,
+  "name": "Grey Hoodie",
+  "category": "Hoodies",
+  "price": 26000,
+  "stock": 22,
+  "rating": 4.8,
+  "tags": [
+    "grey",
+    "hoodie"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c2313"
+  },
+  "productId": 6,
+  "name": "Zip Hoodie",
+  "category": "Hoodies",
+  "price": 30000,
+  "stock": 10,
+  "rating": 4.7,
+  "tags": [
+    "zip",
+    "hoodie"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c2314"
+  },
+  "productId": 7,
+  "name": "Black Baggy Jeans",
+  "category": "Jeans",
+  "price": 35000,
+  "stock": 12,
+  "rating": 4.9,
+  "tags": [
+    "black",
+    "baggy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c2315"
+  },
+  "productId": 8,
+  "name": "Blue Jeans",
+  "category": "Jeans",
+  "price": 32000,
+  "stock": 20,
+  "rating": 4.6,
+  "tags": [
+    "blue",
+    "denim"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c2316"
+  },
+  "productId": 9,
+  "name": "Grey Jeans",
+  "category": "Jeans",
+  "price": 37000,
+  "stock": 8,
+  "rating": 4.8,
+  "tags": [
+    "grey",
+    "denim"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c2317"
+  },
+  "productId": 10,
+  "name": "Black Cargo Pants",
+  "category": "Pants",
+  "price": 29000,
+  "stock": 17,
+  "rating": 4.7,
+  "tags": [
+    "black",
+    "cargo"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c2318"
+  },
+  "productId": 11,
+  "name": "Grey Cargo Pants",
+  "category": "Pants",
+  "price": 30000,
+  "stock": 14,
+  "rating": 4.6,
+  "tags": [
+    "grey",
+    "cargo"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c2319"
+  },
+  "productId": 12,
+  "name": "Wide Black Pants",
+  "category": "Pants",
+  "price": 27000,
+  "stock": 25,
+  "rating": 4.5,
+  "tags": [
+    "black",
+    "wide"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c231a"
+  },
+  "productId": 13,
+  "name": "Leather Jacket",
+  "category": "Jackets",
+  "price": 65000,
+  "stock": 6,
+  "rating": 4.9,
+  "tags": [
+    "leather",
+    "black"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c231b"
+  },
+  "productId": 14,
+  "name": "Denim Jacket",
+  "category": "Jackets",
+  "price": 42000,
+  "stock": 11,
+  "rating": 4.7,
+  "tags": [
+    "denim",
+    "blue"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c231c"
+  },
+  "productId": 15,
+  "name": "Bomber Jacket",
+  "category": "Jackets",
+  "price": 48000,
+  "stock": 9,
+  "rating": 4.8,
+  "tags": [
+    "bomber",
+    "black"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c231d"
+  },
+  "productId": 16,
+  "name": "Black Sneakers",
+  "category": "Shoes",
+  "price": 45000,
+  "stock": 13,
+  "rating": 4.9,
+  "tags": [
+    "sneakers",
+    "black"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c231e"
+  },
+  "productId": 17,
+  "name": "White Sneakers",
+  "category": "Shoes",
+  "price": 43000,
+  "stock": 19,
+  "rating": 4.7,
+  "tags": [
+    "sneakers",
+    "white"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c231f"
+  },
+  "productId": 18,
+  "name": "Running Shoes",
+  "category": "Shoes",
+  "price": 50000,
+  "stock": 7,
+  "rating": 4.6,
+  "tags": [
+    "running",
+    "sport"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c2320"
+  },
+  "productId": 19,
+  "name": "Black Cap",
+  "category": "Accessories",
+  "price": 8000,
+  "stock": 35,
+  "rating": 4.5,
+  "tags": [
+    "cap",
+    "black"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c2321"
+  },
+  "productId": 20,
+  "name": "Silver Chain",
+  "category": "Accessories",
+  "price": 15000,
+  "stock": 18,
+  "rating": 4.8,
+  "tags": [
+    "chain",
+    "silver"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c2322"
+  },
+  "productId": 21,
+  "name": "Leather Belt",
+  "category": "Accessories",
+  "price": 13000,
+  "stock": 20,
+  "rating": 4.6,
+  "tags": [
+    "belt",
+    "leather"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c2323"
+  },
+  "productId": 22,
+  "name": "Black Beanie",
+  "category": "Accessories",
+  "price": 7000,
+  "stock": 30,
+  "rating": 4.4,
+  "tags": [
+    "beanie",
+    "black"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c2324"
+  },
+  "productId": 23,
+  "name": "Oversized Longsleeve",
+  "category": "Longsleeves",
+  "price": 16000,
+  "stock": 16,
+  "rating": 4.7,
+  "tags": [
+    "oversize",
+    "longsleeve"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c2325"
+  },
+  "productId": 24,
+  "name": "White Longsleeve",
+  "category": "Longsleeves",
+  "price": 14000,
+  "stock": 24,
+  "rating": 4.5,
+  "tags": [
+    "white",
+    "longsleeve"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c2326"
+  },
+  "productId": 25,
+  "name": "Black Shirt",
+  "category": "Shirts",
+  "price": 18000,
+  "stock": 21,
+  "rating": 4.6,
+  "tags": [
+    "shirt",
+    "black"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c2327"
+  },
+  "productId": 26,
+  "name": "White Shirt",
+  "category": "Shirts",
+  "price": 17000,
+  "stock": 15,
+  "rating": 4.7,
+  "tags": [
+    "shirt",
+    "white"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c2328"
+  },
+  "productId": 27,
+  "name": "Striped Shirt",
+  "category": "Shirts",
+  "price": 19000,
+  "stock": 10,
+  "rating": 4.4,
+  "tags": [
+    "shirt",
+    "striped"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c2329"
+  },
+  "productId": 28,
+  "name": "Black Shorts",
+  "category": "Shorts",
+  "price": 15000,
+  "stock": 18,
+  "rating": 4.6,
+  "tags": [
+    "shorts",
+    "black"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c232a"
+  },
+  "productId": 29,
+  "name": "Grey Shorts",
+  "category": "Shorts",
+  "price": 14000,
+  "stock": 23,
+  "rating": 4.5,
+  "tags": [
+    "shorts",
+    "grey"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36e9ebe73dcd6f39c232b"
+  },
+  "productId": 30,
+  "name": "Sport Shorts",
+  "category": "Shorts",
+  "price": 13000,
+  "stock": 27,
+  "rating": 4.7,
+  "tags": [
+    "shorts",
+    "sport"
+  ]
+}]
